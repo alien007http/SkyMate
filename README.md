@@ -3,12 +3,6 @@
 
 An **advanced, feature-rich weather dashboard** built with vanilla JavaScript that provides real-time weather information, forecasts, air quality data, and much more. This project demonstrates professional-level web development skills suitable for a BCA final year project.
 
-## 🌐 Live Demo
-[View Live Demo](https://yourusername.github.io/your-repo-name/)
-
-## 📸 Screenshots
-![Weather Dashboard](assets/screenshot.png)
-
 ### 🎯 Key Features
 
 #### Core Features
@@ -525,3 +519,4 @@ For any queries or issues:
 10. ✅ **Best Practices** followed
 
 ---
+
